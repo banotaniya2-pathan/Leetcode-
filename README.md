@@ -5,6 +5,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0031-next-permutation](https://github.com/banotaniya2-pathan/Leetcode-/tree/master/0031-next-permutation) |
+| [0048-rotate-image](https://github.com/banotaniya2-pathan/Leetcode-/tree/master/0048-rotate-image) |
 | [0075-sort-colors](https://github.com/banotaniya2-pathan/Leetcode-/tree/master/0075-sort-colors) |
 | [0136-single-number](https://github.com/banotaniya2-pathan/Leetcode-/tree/master/0136-single-number) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/banotaniya2-pathan/Leetcode-/tree/master/0167-two-sum-ii-input-array-is-sorted) |
@@ -41,4 +42,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0169-majority-element](https://github.com/banotaniya2-pathan/Leetcode-/tree/master/0169-majority-element) |
+## Math
+|  |
+| ------- |
+| [0048-rotate-image](https://github.com/banotaniya2-pathan/Leetcode-/tree/master/0048-rotate-image) |
+## Matrix
+|  |
+| ------- |
+| [0048-rotate-image](https://github.com/banotaniya2-pathan/Leetcode-/tree/master/0048-rotate-image) |
 <!---LeetCode Topics End-->
