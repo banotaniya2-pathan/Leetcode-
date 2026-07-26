@@ -55,6 +55,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Math
 |  |
 | ------- |
+| [0002-add-two-numbers](https://github.com/banotaniya2-pathan/Leetcode-/tree/master/0002-add-two-numbers) |
 | [0048-rotate-image](https://github.com/banotaniya2-pathan/Leetcode-/tree/master/0048-rotate-image) |
 ## Matrix
 |  |
@@ -64,4 +65,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0119-pascals-triangle-ii](https://github.com/banotaniya2-pathan/Leetcode-/tree/master/0119-pascals-triangle-ii) |
+## Linked List
+|  |
+| ------- |
+| [0002-add-two-numbers](https://github.com/banotaniya2-pathan/Leetcode-/tree/master/0002-add-two-numbers) |
+## Recursion
+|  |
+| ------- |
+| [0002-add-two-numbers](https://github.com/banotaniya2-pathan/Leetcode-/tree/master/0002-add-two-numbers) |
 <!---LeetCode Topics End-->
