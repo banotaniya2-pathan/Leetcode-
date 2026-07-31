@@ -43,10 +43,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0018-4sum](https://github.com/banotaniya2-pathan/Leetcode-/tree/master/0018-4sum) |
 | [0075-sort-colors](https://github.com/banotaniya2-pathan/Leetcode-/tree/master/0075-sort-colors) |
 | [0169-majority-element](https://github.com/banotaniya2-pathan/Leetcode-/tree/master/0169-majority-element) |
+| [0242-valid-anagram](https://github.com/banotaniya2-pathan/Leetcode-/tree/master/0242-valid-anagram) |
 ## Hash Table
 |  |
 | ------- |
 | [0169-majority-element](https://github.com/banotaniya2-pathan/Leetcode-/tree/master/0169-majority-element) |
+| [0242-valid-anagram](https://github.com/banotaniya2-pathan/Leetcode-/tree/master/0242-valid-anagram) |
 ## Divide and Conquer
 |  |
 | ------- |
@@ -76,4 +78,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0002-add-two-numbers](https://github.com/banotaniya2-pathan/Leetcode-/tree/master/0002-add-two-numbers) |
+## String
+|  |
+| ------- |
+| [0242-valid-anagram](https://github.com/banotaniya2-pathan/Leetcode-/tree/master/0242-valid-anagram) |
 <!---LeetCode Topics End-->
