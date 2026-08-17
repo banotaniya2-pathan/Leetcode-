@@ -29,6 +29,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0018-4sum](https://github.com/banotaniya2-pathan/Leetcode-/tree/master/0018-4sum) |
 | [0031-next-permutation](https://github.com/banotaniya2-pathan/Leetcode-/tree/master/0031-next-permutation) |
 | [0075-sort-colors](https://github.com/banotaniya2-pathan/Leetcode-/tree/master/0075-sort-colors) |
+| [0125-valid-palindrome](https://github.com/banotaniya2-pathan/Leetcode-/tree/master/0125-valid-palindrome) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/banotaniya2-pathan/Leetcode-/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0344-reverse-string](https://github.com/banotaniya2-pathan/Leetcode-/tree/master/0344-reverse-string) |
 ## Binary Search
@@ -84,6 +85,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0058-length-of-last-word](https://github.com/banotaniya2-pathan/Leetcode-/tree/master/0058-length-of-last-word) |
+| [0125-valid-palindrome](https://github.com/banotaniya2-pathan/Leetcode-/tree/master/0125-valid-palindrome) |
 | [0242-valid-anagram](https://github.com/banotaniya2-pathan/Leetcode-/tree/master/0242-valid-anagram) |
 | [0344-reverse-string](https://github.com/banotaniya2-pathan/Leetcode-/tree/master/0344-reverse-string) |
 | [1528-shuffle-string](https://github.com/banotaniya2-pathan/Leetcode-/tree/master/1528-shuffle-string) |
